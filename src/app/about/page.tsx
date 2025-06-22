@@ -267,7 +267,8 @@ export default function AboutPage() {
               Ready to Start Your Language Journey?
             </h2>
             <p className="text-xl text-blue-100">
-              Discover your current level and get personalized recommendations with our free placement test.
+              Discover your current level and get personalized recommendations with our free placement test. 
+              Transparent pricing, proven results, no hidden fees.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" variant="secondary" className="text-lg px-8 py-6" asChild>
@@ -281,8 +282,8 @@ export default function AboutPage() {
                 className="text-lg px-8 py-6 border-white text-white hover:bg-white hover:text-blue-600" 
                 asChild
               >
-                <Link href="/contact">
-                  Contact Us
+                <Link href="/pricing">
+                  View Pricing
                 </Link>
               </Button>
             </div>

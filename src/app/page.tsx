@@ -64,8 +64,8 @@ export default function HomePage() {
                   </Link>
                 </Button>
                 <Button variant="outline" size="lg" className="text-lg px-8 py-6" asChild>
-                  <Link href="/programs">
-                    View Programs
+                  <Link href="/pricing">
+                    View Pricing
                   </Link>
                 </Button>
               </div>
@@ -171,7 +171,7 @@ export default function HomePage() {
             </h2>
             <p className="text-xl text-blue-100">
               Take our free placement test now and discover your personalized learning path. 
-              No commitment required - just actionable insights to accelerate your progress.
+              No commitment required - just actionable insights and transparent pricing to accelerate your progress.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" variant="secondary" className="text-lg px-8 py-6" asChild>

@@ -362,6 +362,16 @@ export default function ProgramsPage() {
                 className="text-lg px-8 py-6 border-white text-white hover:bg-white hover:text-blue-600" 
                 asChild
               >
+                <Link href="/pricing">
+                  View Pricing
+                </Link>
+              </Button>
+              <Button 
+                size="lg" 
+                variant="outline" 
+                className="text-lg px-8 py-6 border-white text-white hover:bg-white hover:text-blue-600" 
+                asChild
+              >
                 <Link href="/contact">
                   Speak with Specialist
                 </Link>
