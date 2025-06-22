@@ -42,6 +42,9 @@ export default function ContactPage() {
             <Link href="/programs" className="text-sm font-medium hover:text-blue-600 transition-colors">
               Programs
             </Link>
+            <Link href="/pricing" className="text-sm font-medium hover:text-blue-600 transition-colors">
+              Pricing
+            </Link>
             <Link href="/success-stories" className="text-sm font-medium hover:text-blue-600 transition-colors">
               Success Stories
             </Link>
