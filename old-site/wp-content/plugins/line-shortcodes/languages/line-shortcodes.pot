@@ -1,0 +1,823 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: shortcodes 1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-15 00:06-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/includes/elements-carousel.php:67
+msgid "Previous"
+msgstr ""
+
+#: src/includes/elements-carousel.php:67
+msgid "Next"
+msgstr ""
+
+#: src/includes/iconbox.php:17
+msgid "Untitled"
+msgstr ""
+
+#: src/includes/imagebox.php:12 src/includes/imagebox.php:17
+#: src/line-shortcodes-map.php:1310
+msgid "Continue"
+msgstr ""
+
+#: src/includes/posts.php:23 src/line-shortcodes-map.php:481
+msgid "Continue &rarr;"
+msgstr ""
+
+#: src/includes/pricing-table.php:43
+msgid "Pricing table does not exist. Please check your shortcode."
+msgstr ""
+
+#: src/line-shortcodes-admin.php:19
+msgid "Google Maps API"
+msgstr ""
+
+#: src/line-shortcodes-admin.php:26
+msgid "API Key"
+msgstr ""
+
+#: src/line-shortcodes-extras.php:48
+msgid "Most Popular"
+msgstr ""
+
+#: src/line-shortcodes-map.php:51
+msgid "LineThemes: Scroll Slider"
+msgstr ""
+
+#: src/line-shortcodes-map.php:56 src/line-shortcodes-map.php:66
+#: src/line-shortcodes-map.php:185 src/line-shortcodes-map.php:208
+#: src/line-shortcodes-map.php:246 src/line-shortcodes-map.php:330
+#: src/line-shortcodes-map.php:392 src/line-shortcodes-map.php:510
+#: src/line-shortcodes-map.php:570 src/line-shortcodes-map.php:611
+#: src/line-shortcodes-map.php:694 src/line-shortcodes-map.php:1131
+msgid "LineThemes"
+msgstr ""
+
+#: src/line-shortcodes-map.php:64
+msgid "LineThemes: Scroll Slider Item"
+msgstr ""
+
+#: src/line-shortcodes-map.php:71 src/line-shortcodes-map.php:521
+#: src/line-shortcodes-map.php:580
+msgid "List Image"
+msgstr ""
+
+#: src/line-shortcodes-map.php:73 src/line-shortcodes-map.php:523
+#: src/line-shortcodes-map.php:582
+msgid "Default image for all items in the list"
+msgstr ""
+
+#: src/line-shortcodes-map.php:77 src/line-shortcodes-map.php:149
+#: src/line-shortcodes-map.php:623 src/line-shortcodes-map.php:712
+#: src/line-shortcodes-map.php:929 src/line-shortcodes-map.php:1248
+msgid "Title"
+msgstr ""
+
+#: src/line-shortcodes-map.php:82 src/line-shortcodes-map.php:268
+#: src/line-shortcodes-map.php:364 src/line-shortcodes-map.php:527
+#: src/line-shortcodes-map.php:643
+msgid "Content"
+msgstr ""
+
+#: src/line-shortcodes-map.php:87
+msgid "Slide URL"
+msgstr ""
+
+#: src/line-shortcodes-map.php:92
+msgid "Extra Classes"
+msgstr ""
+
+#: src/line-shortcodes-map.php:104 src/line-shortcodes-map.php:787
+msgid "Categories"
+msgstr ""
+
+#: src/line-shortcodes-map.php:105
+msgid ""
+"If you want to narrow output, enter category slugs here. Note: Only listed "
+"categories will be included."
+msgstr ""
+
+#: src/line-shortcodes-map.php:111 src/line-shortcodes-map.php:803
+msgid "Tags"
+msgstr ""
+
+#: src/line-shortcodes-map.php:112
+msgid ""
+"If you want to narrow output, enter tag slugs here. Note: Only listed tags "
+"will be included."
+msgstr ""
+
+#: src/line-shortcodes-map.php:118
+msgid "Exclude"
+msgstr ""
+
+#: src/line-shortcodes-map.php:119
+msgid ""
+"If you want to exclude the posts, enter post slugs here. Note: Only listed "
+"tags will be included."
+msgstr ""
+
+#: src/line-shortcodes-map.php:125 src/line-shortcodes-map.php:434
+#: src/line-shortcodes-map.php:810
+msgid "Limit"
+msgstr ""
+
+#: src/line-shortcodes-map.php:126 src/line-shortcodes-map.php:436
+#: src/line-shortcodes-map.php:811
+msgid "The number of posts will be shown"
+msgstr ""
+
+#: src/line-shortcodes-map.php:133 src/line-shortcodes-map.php:441
+#: src/line-shortcodes-map.php:818
+msgid "Offset"
+msgstr ""
+
+#: src/line-shortcodes-map.php:134 src/line-shortcodes-map.php:443
+#: src/line-shortcodes-map.php:819
+msgid "The number of posts to pass over"
+msgstr ""
+
+#: src/line-shortcodes-map.php:141 src/line-shortcodes-map.php:921
+msgid "Order By"
+msgstr ""
+
+#: src/line-shortcodes-map.php:142 src/line-shortcodes-map.php:922
+msgid "Select how to sort retrieved posts."
+msgstr ""
+
+#: src/line-shortcodes-map.php:146 src/line-shortcodes-map.php:926
+msgid "Date"
+msgstr ""
+
+#: src/line-shortcodes-map.php:147 src/line-shortcodes-map.php:927
+msgid "ID"
+msgstr ""
+
+#: src/line-shortcodes-map.php:148 src/line-shortcodes-map.php:928
+msgid "Author"
+msgstr ""
+
+#: src/line-shortcodes-map.php:150 src/line-shortcodes-map.php:930
+msgid "Modified"
+msgstr ""
+
+#: src/line-shortcodes-map.php:151 src/line-shortcodes-map.php:931
+msgid "Random"
+msgstr ""
+
+#: src/line-shortcodes-map.php:152 src/line-shortcodes-map.php:932
+msgid "Comment count"
+msgstr ""
+
+#: src/line-shortcodes-map.php:153 src/line-shortcodes-map.php:933
+msgid "Menu order"
+msgstr ""
+
+#: src/line-shortcodes-map.php:159 src/line-shortcodes-map.php:939
+msgid "Order Direction"
+msgstr ""
+
+#: src/line-shortcodes-map.php:160 src/line-shortcodes-map.php:940
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: src/line-shortcodes-map.php:164 src/line-shortcodes-map.php:944
+msgid "Ascending"
+msgstr ""
+
+#: src/line-shortcodes-map.php:165 src/line-shortcodes-map.php:945
+msgid "Descending"
+msgstr ""
+
+#: src/line-shortcodes-map.php:171 src/line-shortcodes-map.php:298
+#: src/line-shortcodes-map.php:370 src/line-shortcodes-map.php:671
+#: src/line-shortcodes-map.php:744 src/line-shortcodes-map.php:951
+#: src/line-shortcodes-map.php:1315 src/line-shortcodes-map.php:1424
+msgid "Extra Class"
+msgstr ""
+
+#: src/line-shortcodes-map.php:172 src/line-shortcodes-map.php:221
+#: src/line-shortcodes-map.php:488 src/line-shortcodes-map.php:543
+#: src/line-shortcodes-map.php:588 src/line-shortcodes-map.php:952
+#: src/line-shortcodes-map.php:1425
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: src/line-shortcodes-map.php:179 src/line-shortcodes-map.php:227
+#: src/line-shortcodes-map.php:314 src/line-shortcodes-map.php:377
+#: src/line-shortcodes-map.php:494 src/line-shortcodes-map.php:549
+#: src/line-shortcodes-map.php:594 src/line-shortcodes-map.php:678
+#: src/line-shortcodes-map.php:751 src/line-shortcodes-map.php:1115
+#: src/line-shortcodes-map.php:1322 src/line-shortcodes-map.php:1502
+msgid "Design Options"
+msgstr ""
+
+#: src/line-shortcodes-map.php:184
+msgid "LineThemes: Projects Justified"
+msgstr ""
+
+#: src/line-shortcodes-map.php:206
+msgid "LineThemes: Pricing Table"
+msgstr ""
+
+#: src/line-shortcodes-map.php:212
+msgid "Table ID"
+msgstr ""
+
+#: src/line-shortcodes-map.php:219 src/line-shortcodes-map.php:486
+#: src/line-shortcodes-map.php:541 src/line-shortcodes-map.php:586
+msgid "Extra class name"
+msgstr ""
+
+#: src/line-shortcodes-map.php:244
+msgid "LineThemes: Team Member"
+msgstr ""
+
+#: src/line-shortcodes-map.php:250 src/line-shortcodes-map.php:334
+msgid "Name"
+msgstr ""
+
+#: src/line-shortcodes-map.php:256 src/line-shortcodes-map.php:340
+#: src/line-shortcodes-map.php:649 src/line-shortcodes-map.php:705
+#: src/line-shortcodes-map.php:1266
+msgid "Image"
+msgstr ""
+
+#: src/line-shortcodes-map.php:262 src/line-shortcodes-map.php:346
+#: src/line-shortcodes-map.php:1254
+msgid "Subtitle"
+msgstr ""
+
+#: src/line-shortcodes-map.php:274
+msgid "Facebook URL"
+msgstr ""
+
+#: src/line-shortcodes-map.php:280
+msgid "Twitter URL"
+msgstr ""
+
+#: src/line-shortcodes-map.php:286
+msgid "LinkedIn URL"
+msgstr ""
+
+#: src/line-shortcodes-map.php:292
+msgid "Google+ URL"
+msgstr ""
+
+#: src/line-shortcodes-map.php:304
+msgid "Show Social Icons On Hover"
+msgstr ""
+
+#: src/line-shortcodes-map.php:307 src/line-shortcodes-map.php:460
+#: src/line-shortcodes-map.php:474 src/line-shortcodes-map.php:535
+msgid "Yes, please"
+msgstr ""
+
+#: src/line-shortcodes-map.php:328
+msgid "LineThemes: Testimonial"
+msgstr ""
+
+#: src/line-shortcodes-map.php:352
+msgid "Company"
+msgstr ""
+
+#: src/line-shortcodes-map.php:358 src/line-shortcodes-map.php:1279
+msgid "Link"
+msgstr ""
+
+#: src/line-shortcodes-map.php:390
+msgid "LineThemes: Blog Posts"
+msgstr ""
+
+#: src/line-shortcodes-map.php:396 src/line-shortcodes-map.php:780
+msgid "Widget Title"
+msgstr ""
+
+#: src/line-shortcodes-map.php:398 src/line-shortcodes-map.php:781
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: src/line-shortcodes-map.php:402
+msgid "Category"
+msgstr ""
+
+#: src/line-shortcodes-map.php:404
+msgid "Enter the category's slug that will be used to filter posts"
+msgstr ""
+
+#: src/line-shortcodes-map.php:408
+msgid "Tag"
+msgstr ""
+
+#: src/line-shortcodes-map.php:410
+msgid "Enter the tag's slug that will be used to filter posts"
+msgstr ""
+
+#: src/line-shortcodes-map.php:414
+msgid "Layout"
+msgstr ""
+
+#: src/line-shortcodes-map.php:417
+msgid "Grid"
+msgstr ""
+
+#: src/line-shortcodes-map.php:418
+msgid "List"
+msgstr ""
+
+#: src/line-shortcodes-map.php:423
+msgid "Grid Columns"
+msgstr ""
+
+#: src/line-shortcodes-map.php:425
+msgid "The number of columns for grid and grid masonry layout"
+msgstr ""
+
+#: src/line-shortcodes-map.php:427
+msgid "2 Columns"
+msgstr ""
+
+#: src/line-shortcodes-map.php:428
+msgid "3 Columns"
+msgstr ""
+
+#: src/line-shortcodes-map.php:429
+msgid "4 Columns"
+msgstr ""
+
+#: src/line-shortcodes-map.php:448
+msgid "Icon For Posts"
+msgstr ""
+
+#: src/line-shortcodes-map.php:451
+msgid "Post Thumbnail"
+msgstr ""
+
+#: src/line-shortcodes-map.php:452
+msgid "Post Date"
+msgstr ""
+
+#: src/line-shortcodes-map.php:457
+msgid "Hide Post Content"
+msgstr ""
+
+#: src/line-shortcodes-map.php:465
+msgid "Post Content Length"
+msgstr ""
+
+#: src/line-shortcodes-map.php:471
+msgid "Hide Read More"
+msgstr ""
+
+#: src/line-shortcodes-map.php:479 src/line-shortcodes-map.php:663
+msgid "Read More Text"
+msgstr ""
+
+#: src/line-shortcodes-map.php:508
+msgid "LineThemes: Icon List Item"
+msgstr ""
+
+#: src/line-shortcodes-map.php:515 src/line-shortcodes-map.php:574
+msgid "List Icon"
+msgstr ""
+
+#: src/line-shortcodes-map.php:517 src/line-shortcodes-map.php:576
+msgid "Default icon for all items in the list"
+msgstr ""
+
+#: src/line-shortcodes-map.php:532
+msgid "Enable Icon Circle Style"
+msgstr ""
+
+#: src/line-shortcodes-map.php:565
+msgid "LineThemes: Icon List"
+msgstr ""
+
+#: src/line-shortcodes-map.php:609
+msgid "LineThemes: Icon Box"
+msgstr ""
+
+#: src/line-shortcodes-map.php:615 src/line-shortcodes-map.php:698
+msgid "Icon"
+msgstr ""
+
+#: src/line-shortcodes-map.php:617 src/line-shortcodes-map.php:700
+#, php-format
+msgid ""
+"FontAwesome Icon name. <a href=\"%s\" target=\"blank\">Full list of icons</a>"
+msgstr ""
+
+#: src/line-shortcodes-map.php:630
+msgid "Title Element Tag"
+msgstr ""
+
+#: src/line-shortcodes-map.php:651 src/line-shortcodes-map.php:707
+msgid "Select image to replace the icon"
+msgstr ""
+
+#: src/line-shortcodes-map.php:656
+msgid "Read More Link"
+msgstr ""
+
+#: src/line-shortcodes-map.php:658
+msgid "Enter custom url for read more button"
+msgstr ""
+
+#: src/line-shortcodes-map.php:665
+msgid "Enter custom text for read more button"
+msgstr ""
+
+#: src/line-shortcodes-map.php:666
+msgid "more..."
+msgstr ""
+
+#: src/line-shortcodes-map.php:692
+msgid "LineThemes: Counter"
+msgstr ""
+
+#: src/line-shortcodes-map.php:718
+msgid "Value"
+msgstr ""
+
+#: src/line-shortcodes-map.php:725
+msgid "Prefix"
+msgstr ""
+
+#: src/line-shortcodes-map.php:731
+msgid "Suffix"
+msgstr ""
+
+#: src/line-shortcodes-map.php:737
+msgid "Duration"
+msgstr ""
+
+#: src/line-shortcodes-map.php:772
+msgid "LineThemes: Posts Carousel"
+msgstr ""
+
+#: src/line-shortcodes-map.php:788
+msgid ""
+"If you want to narrow output, enter category names here. Note: Only listed "
+"categories will be included."
+msgstr ""
+
+#: src/line-shortcodes-map.php:804
+msgid ""
+"If you want to narrow output, enter tag names here. Note: Only listed tags "
+"will be included."
+msgstr ""
+
+#: src/line-shortcodes-map.php:826
+msgid "Thumbnail Size"
+msgstr ""
+
+#: src/line-shortcodes-map.php:827
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: src/line-shortcodes-map.php:833
+msgid "Show Post Date?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:834
+msgid "Select \"Yes\" to display post date in the carousel"
+msgstr ""
+
+#: src/line-shortcodes-map.php:838 src/line-shortcodes-map.php:862
+#: src/line-shortcodes-map.php:878 src/line-shortcodes-map.php:902
+#: src/line-shortcodes-map.php:974 src/line-shortcodes-map.php:987
+#: src/line-shortcodes-map.php:1013 src/line-shortcodes-map.php:1025
+#: src/line-shortcodes-map.php:1037 src/line-shortcodes-map.php:1087
+#: src/line-shortcodes-map.php:1183 src/line-shortcodes-map.php:1193
+#: src/line-shortcodes-map.php:1203 src/line-shortcodes-map.php:1301
+#: src/line-shortcodes-map.php:1359 src/line-shortcodes-map.php:1371
+#: src/line-shortcodes-map.php:1395 src/line-shortcodes-map.php:1406
+#: src/line-shortcodes-map.php:1417 src/line-shortcodes-map.php:1474
+msgid "Yes"
+msgstr ""
+
+#: src/line-shortcodes-map.php:839 src/line-shortcodes-map.php:863
+#: src/line-shortcodes-map.php:879 src/line-shortcodes-map.php:903
+#: src/line-shortcodes-map.php:975 src/line-shortcodes-map.php:988
+#: src/line-shortcodes-map.php:1014 src/line-shortcodes-map.php:1026
+#: src/line-shortcodes-map.php:1038 src/line-shortcodes-map.php:1088
+#: src/line-shortcodes-map.php:1182 src/line-shortcodes-map.php:1192
+#: src/line-shortcodes-map.php:1202 src/line-shortcodes-map.php:1302
+#: src/line-shortcodes-map.php:1360 src/line-shortcodes-map.php:1372
+#: src/line-shortcodes-map.php:1396 src/line-shortcodes-map.php:1407
+#: src/line-shortcodes-map.php:1418 src/line-shortcodes-map.php:1475
+msgid "No"
+msgstr ""
+
+#: src/line-shortcodes-map.php:845
+msgid "Date format"
+msgstr ""
+
+#: src/line-shortcodes-map.php:846
+msgid "Enter custom date format that will be shown"
+msgstr ""
+
+#: src/line-shortcodes-map.php:857
+msgid "Show Post Excerpt?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:858
+msgid "Select \"Yes\" to display post excerpt in the carousel"
+msgstr ""
+
+#: src/line-shortcodes-map.php:869
+msgid "Auto Post Excerpt?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:870
+msgid "Select \"Yes\" to display automatic generate post excerpt"
+msgstr ""
+
+#: src/line-shortcodes-map.php:885
+msgid "Post excerpt length"
+msgstr ""
+
+#: src/line-shortcodes-map.php:886
+msgid "Enter the custom length of post excerpt that will be generated"
+msgstr ""
+
+#: src/line-shortcodes-map.php:897
+msgid "Read more"
+msgstr ""
+
+#: src/line-shortcodes-map.php:898
+msgid "Select \"YES\" to show the read more link"
+msgstr ""
+
+#: src/line-shortcodes-map.php:909
+msgid "Read more text"
+msgstr ""
+
+#: src/line-shortcodes-map.php:910
+msgid "Custom text for the read more link"
+msgstr ""
+
+#: src/line-shortcodes-map.php:916
+msgid "Read More"
+msgstr ""
+
+#: src/line-shortcodes-map.php:959 src/line-shortcodes-map.php:1346
+msgid "Show Items"
+msgstr ""
+
+#: src/line-shortcodes-map.php:960 src/line-shortcodes-map.php:1347
+msgid "The maximum amount of items displayed at a time"
+msgstr ""
+
+#: src/line-shortcodes-map.php:962 src/line-shortcodes-map.php:971
+#: src/line-shortcodes-map.php:984 src/line-shortcodes-map.php:996
+#: src/line-shortcodes-map.php:1010 src/line-shortcodes-map.php:1022
+#: src/line-shortcodes-map.php:1034
+msgid "Carousel Options"
+msgstr ""
+
+#: src/line-shortcodes-map.php:969 src/line-shortcodes-map.php:1355
+msgid "Autoplay?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:981 src/line-shortcodes-map.php:1366
+msgid "Stop On Hover?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:982 src/line-shortcodes-map.php:1073
+#: src/line-shortcodes-map.php:1367 src/line-shortcodes-map.php:1460
+msgid "Rewind speed in milliseconds"
+msgstr ""
+
+#: src/line-shortcodes-map.php:994 src/line-shortcodes-map.php:1378
+msgid "Slider Controls"
+msgstr ""
+
+#: src/line-shortcodes-map.php:999 src/line-shortcodes-map.php:1382
+msgid "Navigation"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1000 src/line-shortcodes-map.php:1383
+msgid "Rewind Navigation"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1001 src/line-shortcodes-map.php:1384
+msgid "Pagination"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1002 src/line-shortcodes-map.php:1385
+msgid "Pagination Numbers"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1008 src/line-shortcodes-map.php:1391
+msgid "Scroll Per Page?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1020 src/line-shortcodes-map.php:1402
+msgid "Allow Mouse Drag?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1032 src/line-shortcodes-map.php:1413
+msgid "Allow Touch Drag?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1045 src/line-shortcodes-map.php:1432
+msgid "Autoplay Speed"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1046 src/line-shortcodes-map.php:1433
+msgid "Autoplay speed in milliseconds"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1048 src/line-shortcodes-map.php:1057
+#: src/line-shortcodes-map.php:1066 src/line-shortcodes-map.php:1075
+msgid "Speed"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1054 src/line-shortcodes-map.php:1441
+msgid "Slide Speed"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1055 src/line-shortcodes-map.php:1442
+msgid "Slide speed in milliseconds"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1063 src/line-shortcodes-map.php:1450
+msgid "Pagination Speed"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1064 src/line-shortcodes-map.php:1451
+msgid "Pagination speed in milliseconds"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1072 src/line-shortcodes-map.php:1459
+msgid "Rewind Speed"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1082 src/line-shortcodes-map.php:1469
+msgid "Enable Responsive?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1084 src/line-shortcodes-map.php:1097
+#: src/line-shortcodes-map.php:1107
+msgid "Responsive"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1094 src/line-shortcodes-map.php:1481
+msgid "Items On Tablet"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1095 src/line-shortcodes-map.php:1482
+msgid "The maximum amount of items displayed at a time on tablet device"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1104 src/line-shortcodes-map.php:1491
+msgid "Items On Mobile"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1105 src/line-shortcodes-map.php:1492
+msgid "The maximum amount of items displayed at a time on mobile device"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1129
+msgid "LineThemes: Google Maps"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1135
+msgid "Maps Type"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1136
+msgid "Select the Maps type"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1148
+msgid "Maps Style"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1149
+msgid "Select style for the Maps"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1162
+msgid "Address"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1164
+msgid "Enter you address that will show at the center of the Maps"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1169
+msgid "Zoom Level"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1171
+msgid "Select the default zoom level for the Maps"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1178
+msgid "Enable Zoom On Mouse Scroll"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1179
+msgid "If select \"yes\", the maps will zoom in/out when user scroll the mouse"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1189
+msgid "Enable Draggable"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1199
+msgid "Show The Marker"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1209
+msgid "Marker Image"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1215
+msgid "Height"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1222
+msgid "Locations"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1223
+msgid "Enter you locations(one per line) that will show on the Maps"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1237
+msgid "LineThemes: Image Box"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1260
+msgid "Description"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1272
+msgid "Image Size"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1285
+msgid "Link Target"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1288
+msgid "_self"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1289
+msgid "_blank"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1290
+msgid "_parent"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1291
+msgid "_top"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1297
+msgid "Show Link As Button?"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1308
+msgid "Button Text"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1335
+msgid "LineThemes: Elements Carousel"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1435 src/line-shortcodes-map.php:1444
+#: src/line-shortcodes-map.php:1453 src/line-shortcodes-map.php:1462
+msgid "Speed Options"
+msgstr ""
+
+#: src/line-shortcodes-map.php:1471 src/line-shortcodes-map.php:1484
+#: src/line-shortcodes-map.php:1494
+msgid "Responsive Options"
+msgstr ""

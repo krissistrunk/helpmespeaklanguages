@@ -1,0 +1,1097 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="pingback" href="http://demo.linethemes.com/cosine/xmlrpc.php" />
+
+		<title>Page not found &#8211; Cosine</title>
+<link rel="alternate" type="application/rss+xml" title="Cosine &raquo; Feed" href="http://demo.linethemes.com/cosine/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cosine &raquo; Comments Feed" href="http://demo.linethemes.com/cosine/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/demo.linethemes.com\/cosine\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jquery.prettyphoto-css'  href='http://demo.linethemes.com/cosine/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='video-lightbox-css'  href='http://demo.linethemes.com/cosine/wp-content/plugins/wp-video-lightbox/wp-video-lightbox.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://demo.linethemes.com/cosine/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://demo.linethemes.com/cosine/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='theme-components-css'  href='http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/css/components.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-css'  href='http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/css/style.css?ver=4.5.3' type='text/css' media='all' />
+<style id='theme-inline-css' type='text/css'>
+body {  color: #2f4862;  font-size: 15px;  font-family: Hind Siliguri;  font-weight: 0;  font-style: normal; } h1, h2, h3, h4, h5, h6 {  font-family: Hind Vadodara;  font-weight: 700;  font-style: normal; } h1 {  font-size: 48px; } h2 {  font-size: 36px; } h3 {  font-size: 30px; } h4 {  font-size: 24px; } h5 {  font-size: 18px; } h6 {  font-size: 14px; } #site-header #site-navigator .menu > li a {  color: #174c81;  font-size: 14px;  font-family: Hind Vadodara;  font-weight: 700;  font-style: normal; } #masthead .brand {  margin-top: 29px;  margin-bottom: 37px; } #masthead .brand .logo img {  width: 123px;  height: 30px; } #headerbar {  background-color: ;  color: ; } body.layout-boxed {  background-color: #fff; } #site-content #page-header {  background-color: #d8e7ef;  background-image: url(http://demo.linethemes.com/cosine/wp-content/uploads/2016/04/page-title-bg.png);  background-position: top left;  background-repeat: no-repeat;  background-attachment: scroll; } #site-content #page-header .title,      #site-content #page-header .subtitle {  color: #fff; } #site-content #page-callout {  background-color: ; } #site-content #page-callout .callout-content {  color: ; } #site-footer {  background-color: ;  color: ; } .wrapper,.page-fullwidth #page-body .wrapper .content-wrap .content .vc_row_wrap,.page-fullwidth #page-body #respond,.page-fullwidth #page-body .nocomments {  width: 1110px; } body.layout-boxed #site-wrapper,body.layout-boxed #site-wrapper #masthead-sticky,body.layout-boxed #site-wrapper #masthead.header-v7 {  width: 1210px; } .side-menu.layout-boxed #site-wrapper {  width: 1360px; }a,
+a.link:hover,
+.scheme,
+#site-header #headerbar .top-navigator .menu li .sub-menu li a,
+#site-wrapper .imagebox .box-content .box-button a:hover,
+#site-wrapper .testimonial .testimonial-author .author-info a:hover,
+#site-wrapper .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list li.vc_active a,
+.woocommerce .product .woocommerce-tabs .tabs li.active a,
+input.white[type="submit"], button.white[type="submit"], .button.white,
+.sidebar .widget.widget_nav_menu .menu > li.current-menu-item > a, 
+.sidebar .widget.widget_nav_menu .menu > li.current_page_item > a,
+.sidebar .widget.widget_nav_menu .menu > li.current-menu-item > a::before,
+.sidebar .widget.widget_nav_menu .menu > li.current-page-item > a::before {
+	color: #15416e;
+}
+
+textarea:focus, 
+input[type="text"]:focus, 
+input[type="password"]:focus, 
+input[type="datetime"]:focus, 
+input[type="datetime-local"]:focus, 
+input[type="date"]:focus, 
+input[type="month"]:focus, 
+input[type="time"]:focus, 
+input[type="week"]:focus, 
+input[type="number"]:focus, 
+input[type="email"]:focus, 
+input[type="url"]:focus, 
+input[type="search"]:focus, 
+input[type="tel"]:focus, 
+input[type="color"]:focus,
+input.input-text:focus,
+select:focus,
+#site-wrapper .vc_tta-accordion .vc_tta-panel-heading .vc_tta-panel-title a i.vc_tta-controls-icon-plus::before,
+#site-wrapper .vc_tta-accordion .vc_tta-panel-heading .vc_tta-panel-title a i.vc_tta-controls-icon-plus::after {
+	border-color: #15416e;
+}
+
+input[type="submit"]:hover, 
+button[type="submit"]:hover,
+.button:hover,
+input[type="submit"].scheme2, 
+button[type="submit"].scheme2,
+.button.scheme2,
+.bg-scheme,
+#headerbar,
+#site-header #headerbar .top-navigator .menu li .sub-menu li:hover > a,
+#site-header #headerbar .top-navigator .menu li .sub-menu li.current-menu-item > a,
+#site-header #headerbar .top-navigator .menu li .sub-menu li.current-page-item > a,
+#site-header #masthead #site-navigator .menu li .sub-menu li:hover > a,
+#site-header #masthead #site-navigator .menu li .sub-menu > .current-menu-item > a, 
+#site-header #masthead #site-navigator .menu li .sub-menu > .current-menu-ancestor > a,
+#site-header #masthead #site-navigator .menu.menu-extra .shopping-cart > a .shopping-cart-items-count,
+#site-wrapper .imagebox .box-header::after,
+#site-wrapper .imagebox .box-content::after,
+#site-wrapper .iconbox .box-header .box-icon i,
+#site-wrapper .blog-shortcode.blog-grid .hentry .entry-cover .entry-time,
+.blog .hentry .entry-content .readmore .more-link:hover,
+#site-footer,
+#site-wrapper .testimonial .testimonial-image::after,
+.blog .hentry.sticky,
+.single-post .hentry .entry-footer .entry-tags a,
+a[rel="wp-video-lightbox"]::before,
+#site-wrapper .owl-controls .owl-buttons > div:hover,
+#site-wrapper .owl-controls .owl-pagination .owl-page span,
+.widget.widget_tag_cloud .tagcloud a,
+table thead,
+table tfoot,
+#site-wrapper .vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+#site-wrapper .vc_toggle .vc_toggle_title h4::after,
+#site-wrapper .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list,
+.header-v4 #site-header #masthead #site-navigator,
+.woocommerce .product .woocommerce-tabs .tabs,
+.projects .projects-filter ul,
+.projects.projects-grid .projects-items .hentry .project-wrap .project-thumbnail a,
+.projects.projects-grid .projects-items .hentry .project-wrap .project-thumbnail .project-buttons a:hover,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap .project-thumbnail a,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap .project-thumbnail .project-buttons a:hover,
+.projects.projects-justified .projects-items .hentry > a::after,
+.sidebar .widget.widget_nav_menu ul,
+.woocommerce .products li .add_to_cart_button, .woocommerce-page .products li .add_to_cart_button,
+.widget.widget_product_tag_cloud .tagcloud a,
+.widget_shopping_cart .buttons .button.checkout, .widget_shopping_cart_content .buttons .button.checkout,
+.widget.widget_price_filter .price_slider_wrapper .ui-slider .ui-slider-range,
+.navigation.post-navigation .nav-links li a::after,
+.projects.projects-masonry .projects-items .hentry .project-wrap .project-info,
+.goto-top a,
+#site-wrapper .flexslider .flex-direction-nav li a:hover,
+.history li h3,
+#site-header #masthead #site-navigator-mobile.navigator-mobile .navigator-toggle  {
+	background-color: #15416e;
+}
+
+
+a:hover,
+a.link,
+.scheme2,
+#site-header #masthead #site-navigator .menu > .current-menu-item a, 
+#site-header #masthead #site-navigator .menu > .current-menu-ancestor a,
+#site-header #masthead #site-navigator .menu > li:hover > a,
+#site-wrapper .iconbox .box-readmore a,
+.blog .hentry .entry-header .entry-time, 
+.single-post .hentry .entry-header .entry-time,
+.blog .hentry .entry-header .entry-meta a:hover, .single-post .hentry .entry-header .entry-meta a:hover,
+#site-wrapper .blog-shortcode.blog-grid .hentry .entry-footer .entry-meta a:hover,
+#site-wrapper .testimonial .testimonial-author .author-info,
+#site-wrapper .testimonial .testimonial-author .author-info a,
+h1 i, h2 i, h3 i, h4 i, h5 i, h6 i,
+.navigation.post-navigation .nav-links li a span,
+.widget.widget_recent_comments ul li::after,
+.header-v4 #site-header #masthead #site-brand .wrapper .header-widgets .widget .info-icon i,
+.projects.projects-grid .projects-items .hentry .project-wrap .project-info .project-categories li a:hover,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap .project-info .project-categories li a:hover,
+.woocommerce .star-rating, .woocommerce-page .star-rating,
+.projects.projects-masonry .projects-items .hentry .project-wrap .project-info .project-title a:hover,
+.projects.projects-justified .projects-items .hentry .project-info .project-title a:hover,
+#site-wrapper .member .member-info .member-subtitle {
+	color: #18ba60;
+}
+
+#site-header #masthead #site-navigator .menu > .current-menu-item a, 
+#site-header #masthead #site-navigator .menu > .current-menu-ancestor a,
+blockquote,
+.woocommerce .onsale::after, .woocommerce-page .onsale::after,
+.woocommerce .products li .product-inner:hover, .woocommerce-page .products li .product-inner:hover,
+.project-single .project-content ul li::before,
+ul.style1 li::before,
+ul.style2 li::before,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap:hover {
+	border-color: #18ba60;
+}
+
+input[type="submit"], 
+button[type="submit"],
+.button,
+input[type="submit"].scheme2:hover, 
+button[type="submit"].scheme2:hover,
+.button.scheme2:hover,
+.bg-scheme2,
+#site-header #headerbar .top-navigator .menu li .sub-menu li a::before,
+#site-header #masthead #site-navigator .menu li .sub-menu li a::before,
+#site-header #masthead #site-navigator .menu.menu-extra .shopping-cart > a,
+#site-wrapper .imagebox .box-header::before,
+#site-wrapper .imagebox .box-content .box-button a,
+#site-wrapper .iconbox .box-readmore a::before,
+#site-wrapper .iconbox:hover .box-header .box-icon i,
+#site-wrapper .blog-shortcode.blog-grid .hentry .entry-content-wrap::after,
+#site-wrapper .blog-shortcode.blog-grid .hentry .entry-cover:hover .entry-time,
+.blog .hentry .entry-content .readmore .more-link,
+#site-footer #footer-widgets .widget.widget_nav_menu ul li::before,
+.widget.widget_archive ul li::before,
+.quick-form h1::after, 
+.quick-form h2::after, 
+.quick-form h3::after, 
+.quick-form h4::after, 
+.quick-form h5::after, 
+.quick-form h6::after,
+h1.style2::after, 
+h2.style2::after, 
+h3.style2::after, 
+h4.style2::after, 
+h5.style2::after, 
+h6.style2::after,
+.navigation .page-numbers.current,
+.widget .widget-title::before,
+.single-post .hentry .entry-footer .entry-tags a:hover,
+.box .box-title::after,
+#comments .comments-title::after, #comments #reply-title::after,
+a[rel="wp-video-lightbox"]:hover::before,
+#site-wrapper .owl-controls .owl-buttons > div,
+#site-wrapper .owl-controls .owl-pagination .owl-page.active span,
+.widget.widget_categories ul li a::before, 
+.widget.widget_pages ul li a::before,
+.widget.widget_meta ul li a::before,
+.widget.widget_tag_cloud .tagcloud a:hover,
+.widget.widget_calendar table tbody tr td#today,
+#site-wrapper .vc_toggle.vc_toggle_active .vc_toggle_title h4::after,
+#site-wrapper .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list li a::before,
+.header-v2 #site-header #masthead #site-navigator .menu > .current-menu-item > a, 
+.header-v2 #site-header #masthead #site-navigator .menu > .current-menu-ancestor > a,
+.header-v3 #site-header #masthead #site-navigator .menu > .current-menu-item > a, 
+.header-v3 #site-header #masthead #site-navigator .menu > .current-menu-ancestor > a,
+.header-v4 #site-header #masthead #site-navigator .menu > .current-menu-item > a::after, 
+.header-v4 #site-header #masthead #site-navigator .menu > .current-menu-ancestor > a::after,
+.woocommerce .product .woocommerce-tabs .tabs li a::before,
+.projects .projects-filter ul li.active a::after,
+.projects.projects-grid .projects-items .hentry .project-wrap .project-thumbnail .project-buttons a,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap .project-thumbnail .project-buttons a,
+.sidebar .widget.widget_nav_menu .menu li .sub-menu li a::before,
+.sidebar .widget.widget_nav_menu .menu > li.current-menu-item > a::after, 
+.sidebar .widget.widget_nav_menu .menu > li.current_page_item > a::after,
+.woocommerce .products li .wc-forward, .woocommerce-page .products li .wc-forward,
+.woocommerce .onsale, .woocommerce-page .onsale,
+.woocommerce .products li .add_to_cart_button:hover, .woocommerce-page .products li .add_to_cart_button:hover,
+.woocommerce .woocommerce-pagination ul li .page-numbers.current, 
+.woocommerce-page .woocommerce-pagination ul li .page-numbers.current,
+.widget.widget_product_tag_cloud .tagcloud a:hover,
+.widget.widget_product_categories ul li::before,
+.widget_shopping_cart .buttons .button.checkout:hover, .widget_shopping_cart_content .buttons .button.checkout:hover,
+.widget.widget_price_filter .price_slider_wrapper .ui-slider .ui-slider-handle,
+.woocommerce .product .related h2::after, .woocommerce-page .product .related h2::after, 
+.woocommerce .product .upsells h2::after, .woocommerce-page .product .upsells h2::after,
+.projects-related .projects-related-title::after,
+#site-header #headerbar .top-navigator .menu > li.current-menu-item > a::after, 
+#site-header #headerbar .top-navigator .menu > li.current-page-item > a::after,
+.project-single .project-content ul li::after,
+ul.style1 li::after,
+ul.style2 li::after,
+.navigation.post-navigation .nav-links li a:hover::after,
+.search #main-content .content-inner .search-results article .counter,
+.goto-top a:hover,
+#site-wrapper .counter .counter-image i,
+#site-wrapper .flexslider .flex-direction-nav li a,
+#site-wrapper .member .member-info .social-links a:hover,
+.history li:hover h3,
+.history li::after,
+#site-wrapper .testimonial:not(.has-image) .testimonial-content::after,
+#site-header #masthead #site-navigator-mobile.navigator-mobile.active .navigator-toggle {
+	background-color: #18ba60;
+}body.header-v4 #masthead #site-navigator {
+  -webkit-backface-visibility: hidden !important;
+  -moz-backface-visibility:    hidden !important;
+  -ms-backface-visibility:     hidden !important;
+  backface-visibility: hidden !important;
+}
+</style>
+<link rel='stylesheet' id='theme-fonts-css'  href='http://fonts.googleapis.com/css?family=Hind+Siliguri%3A300%2Cregular%2C500%2C600%2C700%7CHind+Vadodara%3A300%2Cregular%2C500%2C600%2C700%7CHind+Vadodara%3A300%2Cregular%2C500%2C600%2C700&#038;subset=latin&#038;ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='style-switcher-css'  href='http://demo.linethemes.com/cosine/wp-content/plugins/linetools/assets/css/style-switcher.css?ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.min.js?ver=3.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"\/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"true","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js?ver=3.1.6'></script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/cosine\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/cosine\/wp-content\/uploads\/2016\/07\/js_composer.zip?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/demo.linethemes.com\/cosine\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//demo.linethemes.com/cosine/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.12'></script>
+<link rel='https://api.w.org/' href='http://demo.linethemes.com/cosine/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://demo.linethemes.com/cosine/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://demo.linethemes.com/cosine/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<meta name="generator" content="WooCommerce 2.6.2" />
+
+<style type="text/css" id="breadcrumb-trail-css">.breadcrumbs .trail-browse,.breadcrumbs .trail-items,.breadcrumbs .trail-items li {display: inline-block;margin:0;padding: 0;border:none;background:transparent;text-indent: 0;}.breadcrumbs .trail-browse {font-size: inherit;font-style:inherit;font-weight: inherit;color: inherit;}.breadcrumbs .trail-items {list-style: none;}.trail-items li::after {content: "\002F";padding: 0 0.5em;}.trail-items li:last-of-type::after {display: none;}</style>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://demo.linethemes.com/cosine/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://demo.linethemes.com/cosine/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://demo.linethemes.com/cosine/wp-content/uploads/2016/04/cropped-icon-50x50.png" sizes="32x32" />
+<link rel="icon" href="http://demo.linethemes.com/cosine/wp-content/uploads/2016/04/cropped-icon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://demo.linethemes.com/cosine/wp-content/uploads/2016/04/cropped-icon-300x300.png" />
+<meta name="msapplication-TileImage" content="http://demo.linethemes.com/cosine/wp-content/uploads/2016/04/cropped-icon-300x300.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+	<body class="error404 page-loading layout-wide no-sidebar has-topbar header-v1 pageheader-hidden wpb-js-composer js-comp-ver-4.12 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+					<div class="loading-overlay"></div>
+				
+		
+		
+		<div id="site-wrapper">
+			
+<div id="site-header">
+	<div id="headerbar">
+	<div class="wrapper">
+					
+			<div class="social-links">
+									<a href="https://twitter.com/linethemes" target="_blank">
+						<i class="fa fa-twitter"></i>
+					</a>
+									<a href="https://facebook.com/thelinethemes" target="_blank">
+						<i class="fa fa-facebook-official"></i>
+					</a>
+									<a href="#" target="_blank">
+						<i class="fa fa-google-plus"></i>
+					</a>
+							</div>
+			<!-- /.social-links -->
+
+		
+		<div class="custom-info">
+			<span>Have any questions?</span> <i class="fa fa-reply"></i>support@linethemes.com <i class="fa fa-phone"></i>1 800 232 3485		</div>
+		<!-- /.custom-info -->
+
+		
+			<nav class="top-navigator" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+				
+				<ul id="menu-top-menu" class="menu"><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-32"><a href="#">Pages</a>
+<ul class="sub-menu">
+	<li id="menu-item-238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-238"><a href="http://demo.linethemes.com/cosine/?s=ji">Search Results</a></li>
+	<li id="menu-item-237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-237"><a href="http://demo.linethemes.com/cosine/404">404 Page</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="http://demo.linethemes.com/cosine/blank-page/">Blank Page</a></li>
+</ul>
+</li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25"><a href="http://demo.linethemes.com/cosine/case-studies/">Case Studies</a>
+<ul class="sub-menu">
+	<li id="menu-item-192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192"><a href="http://demo.linethemes.com/cosine/case-studies/">Layout 01</a></li>
+	<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://demo.linethemes.com/cosine/case-studies-layout-02/">Layout 02</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://demo.linethemes.com/cosine/case-studies-layout-03/">Layout 03</a></li>
+	<li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="http://demo.linethemes.com/cosine/case-studies-layout-04/">Layout 04</a></li>
+	<li id="menu-item-232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-232"><a href="http://demo.linethemes.com/cosine/gallery/management-protects-and-grows-accounts/">Single layout 01</a></li>
+	<li id="menu-item-233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-233"><a href="http://demo.linethemes.com/cosine/gallery/grows-strategic-accounts-by-110-year-over-year/">Single layout 02</a></li>
+</ul>
+</li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-26"><a href="http://demo.linethemes.com/cosine/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-130"><a href="http://demo.linethemes.com/cosine/news/">List Layout</a></li>
+	<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129"><a href="http://demo.linethemes.com/cosine/news-2/">Grid Layout</a></li>
+</ul>
+</li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31"><a href="http://demo.linethemes.com/cosine/shop/">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="http://demo.linethemes.com/cosine/cart/">Cart</a></li>
+	<li id="menu-item-131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-131"><a href="http://demo.linethemes.com/cosine/checkout/">Checkout</a></li>
+</ul>
+</li>
+</ul>
+			</nav>
+			<!-- /.top-navigator -->
+
+			</div>
+	<!-- /.wrapper -->
+</div>
+<!-- /#headerbar -->
+	<div id="masthead" data-placeholder="#masthead-placeholder">
+	<div class="wrapper">
+		<div id="site-brand">
+			<div id="site-logo" class="brand has-logo"><h1 class="logo" itemprop="headline"><a href="http://demo.linethemes.com/cosine"><img class="logo-standard" src="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/logo.png"  alt="Cosine"><img class="logo-retina" src="http://demo.linethemes.com/cosine/wp-content/uploads/2016/04/logo@2x.png" alt="Cosine" /></a></h1></div>		</div>
+
+		<nav id="site-navigator" class="navigator" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">					
+			<ul id="menu-main-menu" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://demo.linethemes.com/cosine/">Home</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23"><a href="http://demo.linethemes.com/cosine/who-we-are/">Who we are</a>
+<ul class="sub-menu">
+	<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://demo.linethemes.com/cosine/who-we-are/">Overview</a></li>
+	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://demo.linethemes.com/cosine/who-we-are/company-history/">Company History</a></li>
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://demo.linethemes.com/cosine/who-we-are/leadership-team/">Leadership Team</a></li>
+	<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://demo.linethemes.com/cosine/who-we-are/partners-clients/">Partners / Clients</a></li>
+	<li id="menu-item-65" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://demo.linethemes.com/cosine/who-we-are/testimonials/">Testimonials</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://demo.linethemes.com/cosine/who-we-are/frequently-asked-questions/">FAQ</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="http://demo.linethemes.com/cosine/who-we-are/awards-recognition/">Awards &#038; Recognition</a></li>
+</ul>
+</li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22"><a href="http://demo.linethemes.com/cosine/what-we-do/">What we do</a>
+<ul class="sub-menu">
+	<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://demo.linethemes.com/cosine/what-we-do/sales-effectiveness-solutions/">Sales Effectiveness Solutions</a></li>
+	<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://demo.linethemes.com/cosine/what-we-do/a-focus-on-customized-sales-training/">A Focus on Customized Sales Training</a></li>
+	<li id="menu-item-323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="http://demo.linethemes.com/cosine/what-we-do/continuous-learning-approach/">Continuous Learning Approach</a></li>
+</ul>
+</li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21"><a href="http://demo.linethemes.com/cosine/training-programs/">Training Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="http://demo.linethemes.com/cosine/training-programs/consultative-selling-training/">Consultative Selling Training</a></li>
+	<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="http://demo.linethemes.com/cosine/training-programs/high-performance-selling/">High Performance Selling</a></li>
+	<li id="menu-item-369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="http://demo.linethemes.com/cosine/training-programs/sales-coaching-training/">Sales Coaching Training</a></li>
+	<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="http://demo.linethemes.com/cosine/training-programs/sales-negotiation-training/">Sales Negotiation Training</a></li>
+	<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="http://demo.linethemes.com/cosine/training-programs/selling-with-insights/">Selling With Insights</a></li>
+	<li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="http://demo.linethemes.com/cosine/training-programs/trusted-advisor-training/">Trusted Advisor Training</a></li>
+</ul>
+</li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://demo.linethemes.com/cosine/contact/">Contact</a></li>
+</ul><ul class="menu menu-extra">
+			<li class="search-box">
+			<a href="#"><i class="fa fa-search"></i></a>
+			<div class="submenu"><div class="widget widget_search"><form role="search" method="get" class="search-form" action="http://demo.linethemes.com/cosine/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div></div>
+		</li>
+		
+	</ul>
+		</nav>
+	</div>
+
+	<nav id="site-navigator-mobile" class="navigator-mobile" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+
+	<a href="#" class="navigator-toggle">
+		<i class="fa fa-bars"></i>
+	</a>
+	<!-- /.navigator-toggle -->
+	
+	<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://demo.linethemes.com/cosine/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23"><a href="http://demo.linethemes.com/cosine/who-we-are/">Who we are</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://demo.linethemes.com/cosine/who-we-are/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://demo.linethemes.com/cosine/who-we-are/company-history/">Company History</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://demo.linethemes.com/cosine/who-we-are/leadership-team/">Leadership Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://demo.linethemes.com/cosine/who-we-are/partners-clients/">Partners / Clients</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65"><a href="http://demo.linethemes.com/cosine/who-we-are/testimonials/">Testimonials</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://demo.linethemes.com/cosine/who-we-are/frequently-asked-questions/">FAQ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="http://demo.linethemes.com/cosine/who-we-are/awards-recognition/">Awards &#038; Recognition</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22"><a href="http://demo.linethemes.com/cosine/what-we-do/">What we do</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="http://demo.linethemes.com/cosine/what-we-do/sales-effectiveness-solutions/">Sales Effectiveness Solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://demo.linethemes.com/cosine/what-we-do/a-focus-on-customized-sales-training/">A Focus on Customized Sales Training</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-323"><a href="http://demo.linethemes.com/cosine/what-we-do/continuous-learning-approach/">Continuous Learning Approach</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21"><a href="http://demo.linethemes.com/cosine/training-programs/">Training Programs</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367"><a href="http://demo.linethemes.com/cosine/training-programs/consultative-selling-training/">Consultative Selling Training</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="http://demo.linethemes.com/cosine/training-programs/high-performance-selling/">High Performance Selling</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-369"><a href="http://demo.linethemes.com/cosine/training-programs/sales-coaching-training/">Sales Coaching Training</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="http://demo.linethemes.com/cosine/training-programs/sales-negotiation-training/">Sales Negotiation Training</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a href="http://demo.linethemes.com/cosine/training-programs/selling-with-insights/">Selling With Insights</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="http://demo.linethemes.com/cosine/training-programs/trusted-advisor-training/">Trusted Advisor Training</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://demo.linethemes.com/cosine/contact/">Contact</a></li>
+</ul>
+</nav>
+</div>
+<div id="masthead-placeholder"></div></div>
+<!-- /#site-header -->
+
+						
+			<div id="site-content">
+								<div id="page-breadcrumbs">
+	<div class="wrapper">
+			
+			<nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><h2 class="trail-browse">You are here:</h2><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin"><a href="http://demo.linethemes.com/cosine" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end"><span itemprop="name">404 Not Found</span><meta itemprop="position" content="2" /></li></ul></nav>			
+	</div>
+</div>
+				<!-- /#page-header -->
+				
+				
+				<div id="page-body">
+					<div class="wrapper">
+						
+						<div class="content-wrap">
+													
+							<main id="main-content" class="content" itemprop="mainContentOfPage">
+								<div class="main-content-wrap">
+									<div class="content-inner">
+	<div class="heading-404">
+		<img src="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/404.png" alt="404" />
+	</div>
+	<div class="content-404">
+		<h3>Looks Like Something Went Wrong!</h3>
+		<p>The page you were looking for is not here. Maybe you want to perform a search?</p>
+
+		<form role="search" method="get" class="search-form" action="http://demo.linethemes.com/cosine/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>
+	</div>
+</div>
+<!-- /.content-inner -->
+								</div>
+							</main>
+							<!-- /#main-content -->
+						
+																				</div>
+						<!-- /.content-wrap -->
+						
+											</div>
+					<!-- /.wrapper -->
+				</div>
+				<!-- /#page-body -->
+
+							</div>
+			<!-- /#site-content -->
+			
+			
+
+			<div id="site-footer">
+	<div id="content-bottom-widgets">
+	<div class="wrapper">
+		<div class="row">
+							<div class="columns columns-10">
+					<div id="text-3" class="widget widget_text">			<div class="textwidget"><div class="custom-info"><span>Have any questions?</span><span><i class="fa fa-reply"></i>support@linethemes.com</span> <span><i class="fa fa-map-marker"></i>66 Nicholson St Buffalo New York US</span> <span><i class="fa fa-phone"></i>1 800 232 3485</span></div></div>
+		</div>				</div>
+							<div class="columns columns-2">
+					<div id="text-2" class="widget widget_text">			<div class="textwidget"><div class="logo-ft"><img src="http://demo.linethemes.com/cosine/wp-content/uploads/2016/04/logo-ft.png" alt="logo" width="123" height="30"></div></div>
+		</div>				</div>
+					</div>
+		<!-- /.row -->
+	</div>
+	<!-- /.wrapper -->
+
+</div>
+<!-- /#page-footer -->
+
+	<div id="footer-widgets">
+	<div class="wrapper">
+		<div class="row">
+							<div class="columns columns-4">
+					<div id="text-4" class="widget widget_text">			<div class="textwidget"><p>Cosine is a global sales consulting firm that helps clients implement processes and disciplines to drive sustained revenue acceleration. </p>
+
+<p>We use a holistic, science-based approach combining training, consulting, coaching, and diagnostics to help you get the results you want.</p></div>
+		</div>				</div>
+							<div class="columns columns-4">
+					<div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="http://demo.linethemes.com/cosine/who-we-are/">About</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://demo.linethemes.com/cosine/training-programs/">Training Programs</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="http://demo.linethemes.com/cosine/who-we-are/company-history/">Company History</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="http://demo.linethemes.com/cosine/who-we-are/leadership-team/">Leadership Team</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="http://demo.linethemes.com/cosine/what-we-do/">What We Do</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="http://demo.linethemes.com/cosine/who-we-are/awards-recognition/">Awards &#038; Recognition</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="http://demo.linethemes.com/cosine/who-we-are/testimonials/">Testimonials</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="http://demo.linethemes.com/cosine/who-we-are/partners-clients/">Partners / Clients</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://demo.linethemes.com/cosine/case-studies/">Case Studies</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://demo.linethemes.com/cosine/shop/">Sales Books</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://demo.linethemes.com/cosine/contact/">Contact</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="http://demo.linethemes.com/cosine/who-we-are/frequently-asked-questions/">FAQ</a></li>
+</ul></div></div>				</div>
+							<div class="columns columns-4">
+					<div id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v3.1.11 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-34" method="post" data-id="34" data-name="form-footer" ><div class="mc4wp-form-fields"><p>
+	<label>Monthly Tips & strategies for accelerating revenue.</label>
+	<input type="email" name="EMAIL" placeholder="Your email address" required />
+</p>
+
+<p>
+	<input type="submit" value="Submit" />
+</p><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1468847157" /><input type="hidden" name="_mc4wp_form_id" value="34" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div>				</div>
+					</div>
+		<!-- /.row -->
+
+					<div class="goto-top"><a href="#top">Goto Top</a></div>
+				
+	</div>
+	<!-- /.wrapper -->
+
+</div>
+<!-- /#page-footer -->
+
+	<div id="footer-content">
+		<div class="wrapper">
+			<div class="social-links">
+	<a href="https://twitter.com/linethemes" target="_blank"><i class="fa fa-twitter"></i></a><a href="https://facebook.com/thelinethemes" target="_blank"><i class="fa fa-facebook-official"></i></a><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></div>
+			<div class="copyright">
+	<div class="copyright-content">
+		Copyright © 2016 Cosine. Theme by <a href="http://linethemes.com" target="_blank">Linethemes.</a>	</div>
+	<!-- /.copyright-content -->
+</div>
+<!-- /.copyright -->
+		</div>
+	</div>
+	<!-- /.wrapper -->
+</div>
+<!-- /#site-footer -->
+		</div>
+		<!-- /#site-wrapper -->
+
+						<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49137267-20', 'auto');
+  ga('send', 'pageview');
+</script><script id="shopping-cart-items-updater" type="text/javascript"></script>
+			<div id="style-switcher">
+				<button type="button" class="btn-toggle"><i class="fa fa-cog"></i></button>
+
+				<div class="panel">
+					<h3 class="panel-title">
+						Style Switcher						<span><i class="fa fa-angle-left"></i></span>
+					</h3>
+					<div class="panel-content">
+						<form method="post">
+							<input type="hidden" name="less" value="a,
+a.link:hover,
+.scheme,
+#site-header #headerbar .top-navigator .menu li .sub-menu li a,
+#site-wrapper .imagebox .box-content .box-button a:hover,
+#site-wrapper .testimonial .testimonial-author .author-info a:hover,
+#site-wrapper .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list li.vc_active a,
+.woocommerce .product .woocommerce-tabs .tabs li.active a,
+input.white[type=&quot;submit&quot;], button.white[type=&quot;submit&quot;], .button.white,
+.sidebar .widget.widget_nav_menu .menu &gt; li.current-menu-item &gt; a, 
+.sidebar .widget.widget_nav_menu .menu &gt; li.current_page_item &gt; a,
+.sidebar .widget.widget_nav_menu .menu &gt; li.current-menu-item &gt; a::before,
+.sidebar .widget.widget_nav_menu .menu &gt; li.current-page-item &gt; a::before {
+	color: @scheme;
+}
+
+textarea:focus, 
+input[type=&quot;text&quot;]:focus, 
+input[type=&quot;password&quot;]:focus, 
+input[type=&quot;datetime&quot;]:focus, 
+input[type=&quot;datetime-local&quot;]:focus, 
+input[type=&quot;date&quot;]:focus, 
+input[type=&quot;month&quot;]:focus, 
+input[type=&quot;time&quot;]:focus, 
+input[type=&quot;week&quot;]:focus, 
+input[type=&quot;number&quot;]:focus, 
+input[type=&quot;email&quot;]:focus, 
+input[type=&quot;url&quot;]:focus, 
+input[type=&quot;search&quot;]:focus, 
+input[type=&quot;tel&quot;]:focus, 
+input[type=&quot;color&quot;]:focus,
+input.input-text:focus,
+select:focus,
+#site-wrapper .vc_tta-accordion .vc_tta-panel-heading .vc_tta-panel-title a i.vc_tta-controls-icon-plus::before,
+#site-wrapper .vc_tta-accordion .vc_tta-panel-heading .vc_tta-panel-title a i.vc_tta-controls-icon-plus::after {
+	border-color: @scheme;
+}
+
+input[type=&quot;submit&quot;]:hover, 
+button[type=&quot;submit&quot;]:hover,
+.button:hover,
+input[type=&quot;submit&quot;].scheme2, 
+button[type=&quot;submit&quot;].scheme2,
+.button.scheme2,
+.bg-scheme,
+#headerbar,
+#site-header #headerbar .top-navigator .menu li .sub-menu li:hover &gt; a,
+#site-header #headerbar .top-navigator .menu li .sub-menu li.current-menu-item &gt; a,
+#site-header #headerbar .top-navigator .menu li .sub-menu li.current-page-item &gt; a,
+#site-header #masthead #site-navigator .menu li .sub-menu li:hover &gt; a,
+#site-header #masthead #site-navigator .menu li .sub-menu &gt; .current-menu-item &gt; a, 
+#site-header #masthead #site-navigator .menu li .sub-menu &gt; .current-menu-ancestor &gt; a,
+#site-header #masthead #site-navigator .menu.menu-extra .shopping-cart &gt; a .shopping-cart-items-count,
+#site-wrapper .imagebox .box-header::after,
+#site-wrapper .imagebox .box-content::after,
+#site-wrapper .iconbox .box-header .box-icon i,
+#site-wrapper .blog-shortcode.blog-grid .hentry .entry-cover .entry-time,
+.blog .hentry .entry-content .readmore .more-link:hover,
+#site-footer,
+#site-wrapper .testimonial .testimonial-image::after,
+.blog .hentry.sticky,
+.single-post .hentry .entry-footer .entry-tags a,
+a[rel=&quot;wp-video-lightbox&quot;]::before,
+#site-wrapper .owl-controls .owl-buttons &gt; div:hover,
+#site-wrapper .owl-controls .owl-pagination .owl-page span,
+.widget.widget_tag_cloud .tagcloud a,
+table thead,
+table tfoot,
+#site-wrapper .vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-heading .vc_tta-panel-title a,
+#site-wrapper .vc_toggle .vc_toggle_title h4::after,
+#site-wrapper .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list,
+.header-v4 #site-header #masthead #site-navigator,
+.woocommerce .product .woocommerce-tabs .tabs,
+.projects .projects-filter ul,
+.projects.projects-grid .projects-items .hentry .project-wrap .project-thumbnail a,
+.projects.projects-grid .projects-items .hentry .project-wrap .project-thumbnail .project-buttons a:hover,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap .project-thumbnail a,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap .project-thumbnail .project-buttons a:hover,
+.projects.projects-justified .projects-items .hentry &gt; a::after,
+.sidebar .widget.widget_nav_menu ul,
+.woocommerce .products li .add_to_cart_button, .woocommerce-page .products li .add_to_cart_button,
+.widget.widget_product_tag_cloud .tagcloud a,
+.widget_shopping_cart .buttons .button.checkout, .widget_shopping_cart_content .buttons .button.checkout,
+.widget.widget_price_filter .price_slider_wrapper .ui-slider .ui-slider-range,
+.navigation.post-navigation .nav-links li a::after,
+.projects.projects-masonry .projects-items .hentry .project-wrap .project-info,
+.goto-top a,
+#site-wrapper .flexslider .flex-direction-nav li a:hover,
+.history li h3,
+#site-header #masthead #site-navigator-mobile.navigator-mobile .navigator-toggle  {
+	background-color: @scheme;
+}
+
+
+a:hover,
+a.link,
+.scheme2,
+#site-header #masthead #site-navigator .menu &gt; .current-menu-item a, 
+#site-header #masthead #site-navigator .menu &gt; .current-menu-ancestor a,
+#site-header #masthead #site-navigator .menu &gt; li:hover &gt; a,
+#site-wrapper .iconbox .box-readmore a,
+.blog .hentry .entry-header .entry-time, 
+.single-post .hentry .entry-header .entry-time,
+.blog .hentry .entry-header .entry-meta a:hover, .single-post .hentry .entry-header .entry-meta a:hover,
+#site-wrapper .blog-shortcode.blog-grid .hentry .entry-footer .entry-meta a:hover,
+#site-wrapper .testimonial .testimonial-author .author-info,
+#site-wrapper .testimonial .testimonial-author .author-info a,
+h1 i, h2 i, h3 i, h4 i, h5 i, h6 i,
+.navigation.post-navigation .nav-links li a span,
+.widget.widget_recent_comments ul li::after,
+.header-v4 #site-header #masthead #site-brand .wrapper .header-widgets .widget .info-icon i,
+.projects.projects-grid .projects-items .hentry .project-wrap .project-info .project-categories li a:hover,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap .project-info .project-categories li a:hover,
+.woocommerce .star-rating, .woocommerce-page .star-rating,
+.projects.projects-masonry .projects-items .hentry .project-wrap .project-info .project-title a:hover,
+.projects.projects-justified .projects-items .hentry .project-info .project-title a:hover,
+#site-wrapper .member .member-info .member-subtitle {
+	color: @scheme2;
+}
+
+#site-header #masthead #site-navigator .menu &gt; .current-menu-item a, 
+#site-header #masthead #site-navigator .menu &gt; .current-menu-ancestor a,
+blockquote,
+.woocommerce .onsale::after, .woocommerce-page .onsale::after,
+.woocommerce .products li .product-inner:hover, .woocommerce-page .products li .product-inner:hover,
+.project-single .project-content ul li::before,
+ul.style1 li::before,
+ul.style2 li::before,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap:hover {
+	border-color: @scheme2;
+}
+
+input[type=&quot;submit&quot;], 
+button[type=&quot;submit&quot;],
+.button,
+input[type=&quot;submit&quot;].scheme2:hover, 
+button[type=&quot;submit&quot;].scheme2:hover,
+.button.scheme2:hover,
+.bg-scheme2,
+#site-header #headerbar .top-navigator .menu li .sub-menu li a::before,
+#site-header #masthead #site-navigator .menu li .sub-menu li a::before,
+#site-header #masthead #site-navigator .menu.menu-extra .shopping-cart &gt; a,
+#site-wrapper .imagebox .box-header::before,
+#site-wrapper .imagebox .box-content .box-button a,
+#site-wrapper .iconbox .box-readmore a::before,
+#site-wrapper .iconbox:hover .box-header .box-icon i,
+#site-wrapper .blog-shortcode.blog-grid .hentry .entry-content-wrap::after,
+#site-wrapper .blog-shortcode.blog-grid .hentry .entry-cover:hover .entry-time,
+.blog .hentry .entry-content .readmore .more-link,
+#site-footer #footer-widgets .widget.widget_nav_menu ul li::before,
+.widget.widget_archive ul li::before,
+.quick-form h1::after, 
+.quick-form h2::after, 
+.quick-form h3::after, 
+.quick-form h4::after, 
+.quick-form h5::after, 
+.quick-form h6::after,
+h1.style2::after, 
+h2.style2::after, 
+h3.style2::after, 
+h4.style2::after, 
+h5.style2::after, 
+h6.style2::after,
+.navigation .page-numbers.current,
+.widget .widget-title::before,
+.single-post .hentry .entry-footer .entry-tags a:hover,
+.box .box-title::after,
+#comments .comments-title::after, #comments #reply-title::after,
+a[rel=&quot;wp-video-lightbox&quot;]:hover::before,
+#site-wrapper .owl-controls .owl-buttons &gt; div,
+#site-wrapper .owl-controls .owl-pagination .owl-page.active span,
+.widget.widget_categories ul li a::before, 
+.widget.widget_pages ul li a::before,
+.widget.widget_meta ul li a::before,
+.widget.widget_tag_cloud .tagcloud a:hover,
+.widget.widget_calendar table tbody tr td#today,
+#site-wrapper .vc_toggle.vc_toggle_active .vc_toggle_title h4::after,
+#site-wrapper .vc_tta-tabs .vc_tta-tabs-container .vc_tta-tabs-list li a::before,
+.header-v2 #site-header #masthead #site-navigator .menu &gt; .current-menu-item &gt; a, 
+.header-v2 #site-header #masthead #site-navigator .menu &gt; .current-menu-ancestor &gt; a,
+.header-v3 #site-header #masthead #site-navigator .menu &gt; .current-menu-item &gt; a, 
+.header-v3 #site-header #masthead #site-navigator .menu &gt; .current-menu-ancestor &gt; a,
+.header-v4 #site-header #masthead #site-navigator .menu &gt; .current-menu-item &gt; a::after, 
+.header-v4 #site-header #masthead #site-navigator .menu &gt; .current-menu-ancestor &gt; a::after,
+.woocommerce .product .woocommerce-tabs .tabs li a::before,
+.projects .projects-filter ul li.active a::after,
+.projects.projects-grid .projects-items .hentry .project-wrap .project-thumbnail .project-buttons a,
+.projects.projects-grid-alt .projects-items .hentry .project-wrap .project-thumbnail .project-buttons a,
+.sidebar .widget.widget_nav_menu .menu li .sub-menu li a::before,
+.sidebar .widget.widget_nav_menu .menu &gt; li.current-menu-item &gt; a::after, 
+.sidebar .widget.widget_nav_menu .menu &gt; li.current_page_item &gt; a::after,
+.woocommerce .products li .wc-forward, .woocommerce-page .products li .wc-forward,
+.woocommerce .onsale, .woocommerce-page .onsale,
+.woocommerce .products li .add_to_cart_button:hover, .woocommerce-page .products li .add_to_cart_button:hover,
+.woocommerce .woocommerce-pagination ul li .page-numbers.current, 
+.woocommerce-page .woocommerce-pagination ul li .page-numbers.current,
+.widget.widget_product_tag_cloud .tagcloud a:hover,
+.widget.widget_product_categories ul li::before,
+.widget_shopping_cart .buttons .button.checkout:hover, .widget_shopping_cart_content .buttons .button.checkout:hover,
+.widget.widget_price_filter .price_slider_wrapper .ui-slider .ui-slider-handle,
+.woocommerce .product .related h2::after, .woocommerce-page .product .related h2::after, 
+.woocommerce .product .upsells h2::after, .woocommerce-page .product .upsells h2::after,
+.projects-related .projects-related-title::after,
+#site-header #headerbar .top-navigator .menu &gt; li.current-menu-item &gt; a::after, 
+#site-header #headerbar .top-navigator .menu &gt; li.current-page-item &gt; a::after,
+.project-single .project-content ul li::after,
+ul.style1 li::after,
+ul.style2 li::after,
+.navigation.post-navigation .nav-links li a:hover::after,
+.search #main-content .content-inner .search-results article .counter,
+.goto-top a:hover,
+#site-wrapper .counter .counter-image i,
+#site-wrapper .flexslider .flex-direction-nav li a,
+#site-wrapper .member .member-info .social-links a:hover,
+.history li:hover h3,
+.history li::after,
+#site-wrapper .testimonial:not(.has-image) .testimonial-content::after,
+#site-header #masthead #site-navigator-mobile.navigator-mobile.active .navigator-toggle {
+	background-color: @scheme2;
+}" />
+							<ul>
+								<li>
+									<h4 class="option-title">Layout</h4>
+									<p class="option-desc">Switch layout between wide and boxed</p>
+
+									<div class="option-fields">
+										<label class="wide">
+											<input type="radio" name="layout" value="wide"  checked='checked' />
+											<span><img src="http://demo.linethemes.com/cosine/wp-content/plugins/linetools/assets/img/layout-wide.png" alt=""></span>
+											<span>Wide</span>
+										</label>
+										<label class="boxed">
+											<input type="radio" name="layout" value="boxed"  />
+											<span><img src="http://demo.linethemes.com/cosine/wp-content/plugins/linetools/assets/img/layout-boxed.png" alt=""></span>
+											<span>Boxed</span>
+										</label>
+									</div>
+								</li>
+
+																	<li>
+										<h4 class="option-title">Header Style</h4>
+										<p class="option-desc">Select the header style to preview</p>
+
+										<div class="option-fields option-header">
+											<select name="header">
+																									<option value="header-v1"  selected='selected'>Classic</option>
+																									<option value="header-v2" >Modern</option>
+																									<option value="header-v3" >Transparent</option>
+																									<option value="header-v4" >Header Widget</option>
+																							</select>
+										</div>
+									</li>
+								
+																	
+									<li class="patterns">
+										<h4 class="option-title">Boxed Background</h4>
+										<p class="option-desc">Background pattern for BOXED layout</p>
+
+										<div class="option-fields">
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/1.png"  checked='checked' />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/1.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/2.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/2.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/3.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/3.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/4.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/4.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/5.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/5.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/6.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/6.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/7.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/7.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/8.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/8.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/9.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/9.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+											
+												<label>
+													<input type="radio" name="pattern" value="http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/10.png"  />
+													<span style="background: url( http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/img/patterns/10.png );">
+														<i class="fa fa-check"></i>
+													</span>
+												</label>
+											
+																					</div>
+									</li>
+
+								
+																	
+									<li class="colors">
+										<h4 class="option-title">Scheme Color</h4>
+										<p class="option-desc">Select predefined scheme color</p>
+
+										<div class="option-fields">
+											
+												<label data-color-type="multiple" data-color-count="2">
+													<input type="radio" name="scheme" value="{&quot;scheme&quot;:&quot;#15416e&quot;,&quot;scheme2&quot;:&quot;#18ba60&quot;}"  checked='checked' />
+													<i class="fa fa-check"></i>
+
+													<span class="colors-wrap">
+																																													<span style="background: #15416e"></span>
+																															<span style="background: #18ba60"></span>
+																																										</span>
+												</label>
+											
+											
+												<label data-color-type="multiple" data-color-count="2">
+													<input type="radio" name="scheme" value="{&quot;scheme&quot;:&quot;#243182&quot;,&quot;scheme2&quot;:&quot;#ffe71e&quot;}"  />
+													<i class="fa fa-check"></i>
+
+													<span class="colors-wrap">
+																																													<span style="background: #243182"></span>
+																															<span style="background: #ffe71e"></span>
+																																										</span>
+												</label>
+											
+											
+												<label data-color-type="multiple" data-color-count="2">
+													<input type="radio" name="scheme" value="{&quot;scheme&quot;:&quot;#0d404f&quot;,&quot;scheme2&quot;:&quot;#e6694a&quot;}"  />
+													<i class="fa fa-check"></i>
+
+													<span class="colors-wrap">
+																																													<span style="background: #0d404f"></span>
+																															<span style="background: #e6694a"></span>
+																																										</span>
+												</label>
+											
+											
+												<label data-color-type="multiple" data-color-count="2">
+													<input type="radio" name="scheme" value="{&quot;scheme&quot;:&quot;#34314c&quot;,&quot;scheme2&quot;:&quot;#47b8e0&quot;}"  />
+													<i class="fa fa-check"></i>
+
+													<span class="colors-wrap">
+																																													<span style="background: #34314c"></span>
+																															<span style="background: #47b8e0"></span>
+																																										</span>
+												</label>
+											
+											
+												<label data-color-type="multiple" data-color-count="2">
+													<input type="radio" name="scheme" value="{&quot;scheme&quot;:&quot;#008c9e&quot;,&quot;scheme2&quot;:&quot;#1cbac8&quot;}"  />
+													<i class="fa fa-check"></i>
+
+													<span class="colors-wrap">
+																																													<span style="background: #008c9e"></span>
+																															<span style="background: #1cbac8"></span>
+																																										</span>
+												</label>
+											
+																					</div>
+									</li>
+
+															</ul>
+							<div class="actions">
+								<button type="button" class="reset">Reset Styles</button>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+
+		<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/demo.linethemes.com\/cosine\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript' src='//demo.linethemes.com/cosine/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/cosine\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/cosine\/wp-content\/uploads\/2016\/07\/js_composer.zip?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//demo.linethemes.com/cosine/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='//demo.linethemes.com/cosine/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/cosine\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/cosine\/wp-content\/uploads\/2016\/07\/js_composer.zip?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//demo.linethemes.com/cosine/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/js/components.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _themeConfig = {"stickyHeader":"1","responsiveMenu":"1","blogLayout":null,"pagingStyle":"numeric","pagingContainer":"#main-content > .main-content-wrap > .content-inner","pagingNavigator":".navigation.paging-navigation.loadmore"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/themes/cosine/assets/js/theme.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/linetools/assets/js/less.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _themeInfo = {"name":"cosine"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/linetools/assets/js/style-switcher.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=3.1.11'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://demo.linethemes.com/cosine/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=3.1.11'></script>
+<![endif]-->
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}})();</script>	</body>
+</html>
