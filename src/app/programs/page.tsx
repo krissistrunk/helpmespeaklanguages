@@ -65,7 +65,11 @@ export default function ProgramsPage() {
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-16">
             {/* Individual Programs */}
-            <div className="bg-white border-2 border-blue-200 rounded-xl p-8 hover:border-blue-400 transition-colors">
+            <div className="relative bg-white border-2 border-blue-200 rounded-xl p-8 hover:border-blue-400 hover:shadow-xl hover:-translate-y-1 transition-all duration-300 group">
+              {/* Most Popular Badge */}
+              <div className="absolute -top-3 left-1/2 transform -translate-x-1/2 bg-blue-600 text-white text-xs font-bold px-3 py-1 rounded-full">
+                MOST POPULAR
+              </div>
               <div className="text-center space-y-6">
                 <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto">
                   <svg className="w-8 h-8 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
@@ -73,6 +77,9 @@ export default function ProgramsPage() {
                   </svg>
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900">Individual Training</h3>
+                <div className="bg-blue-50 rounded-lg p-3 mb-4">
+                  <p className="text-blue-600 font-semibold text-lg">Starting at $89/hour</p>
+                </div>
                 <p className="text-gray-600">
                   One-on-one instruction tailored to your specific needs, schedule, and learning pace.
                 </p>
@@ -90,7 +97,7 @@ export default function ProgramsPage() {
             </div>
 
             {/* Group Programs */}
-            <div className="bg-white border-2 border-green-200 rounded-xl p-8 hover:border-green-400 transition-colors">
+            <div className="bg-white border-2 border-green-200 rounded-xl p-8 hover:border-green-400 hover:shadow-xl hover:-translate-y-1 transition-all duration-300 group">
               <div className="text-center space-y-6">
                 <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto">
                   <svg className="w-8 h-8 text-green-600" fill="currentColor" viewBox="0 0 20 20">
@@ -98,6 +105,9 @@ export default function ProgramsPage() {
                   </svg>
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900">Small Group Classes</h3>
+                <div className="bg-green-50 rounded-lg p-3 mb-4">
+                  <p className="text-green-600 font-semibold text-lg">Starting at $35/class</p>
+                </div>
                 <p className="text-gray-600">
                   Interactive group learning with 4-6 students at similar proficiency levels.
                 </p>
@@ -115,7 +125,7 @@ export default function ProgramsPage() {
             </div>
 
             {/* Corporate Programs */}
-            <div className="bg-white border-2 border-purple-200 rounded-xl p-8 hover:border-purple-400 transition-colors">
+            <div className="bg-white border-2 border-purple-200 rounded-xl p-8 hover:border-purple-400 hover:shadow-xl hover:-translate-y-1 transition-all duration-300 group">
               <div className="text-center space-y-6">
                 <div className="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto">
                   <svg className="w-8 h-8 text-purple-600" fill="currentColor" viewBox="0 0 20 20">
@@ -123,6 +133,9 @@ export default function ProgramsPage() {
                   </svg>
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900">Corporate Training</h3>
+                <div className="bg-purple-50 rounded-lg p-3 mb-4">
+                  <p className="text-purple-600 font-semibold text-lg">Custom Pricing</p>
+                </div>
                 <p className="text-gray-600">
                   Customized language solutions for businesses and organizations.
                 </p>
@@ -149,7 +162,7 @@ export default function ProgramsPage() {
             Available Languages
           </h2>
 
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 md:gap-6">
             {[
               { name: "Spanish", flag: "🇪🇸", students: "2,500+" },
               { name: "French", flag: "🇫🇷", students: "1,800+" },
@@ -167,10 +180,10 @@ export default function ProgramsPage() {
               { name: "Polish", flag: "🇵🇱", students: "300+" },
               { name: "Turkish", flag: "🇹🇷", students: "200+" }
             ].map((language) => (
-              <div key={language.name} className="bg-white rounded-lg p-6 text-center shadow-sm hover:shadow-md transition-shadow">
-                <div className="text-3xl mb-2">{language.flag}</div>
-                <h3 className="font-semibold text-gray-900 mb-1">{language.name}</h3>
-                <p className="text-sm text-gray-600">{language.students} students</p>
+              <div key={language.name} className="bg-white rounded-lg p-4 md:p-6 text-center shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300 cursor-pointer group">
+                <div className="text-2xl md:text-3xl mb-2 group-hover:scale-110 transition-transform duration-300">{language.flag}</div>
+                <h3 className="font-semibold text-gray-900 mb-1 text-sm md:text-base">{language.name}</h3>
+                <p className="text-xs md:text-sm text-gray-600">{language.students} students</p>
               </div>
             ))}
           </div>
